@@ -17,7 +17,7 @@ This project displays weather information using a simple interface.
 
 ## 📸 Screenshots
 
-(Add your images)
+img1.png,img2.png,img3.png,img4.png
 
 ## 🎥 Demo Video
 
